@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Location
-namespace: default
 metadata:
   name: yelb-catalog-info
+  namespace: default
   description: A sample catalog for the yelb application
   annotations:
     'backstage.io/techdocs-ref': dir:.
