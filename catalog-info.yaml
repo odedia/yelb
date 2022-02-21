@@ -1,5 +1,6 @@
 apiVersion: backstage.io/v1alpha1
 kind: Location
+namespace: default
 metadata:
   name: yelb-catalog-info
   description: A sample catalog for the yelb application
