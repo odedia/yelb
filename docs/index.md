@@ -1,4 +1,4 @@
-# tanzu java web app sample documentation
+# Tanzu java web app sample documentation
 
 This sample catalog and documentation corresponds to a demonstration application called [Yelb](https://github.com/mreferre/yelb).
 
